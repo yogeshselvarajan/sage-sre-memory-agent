@@ -1,0 +1,6 @@
+strands-agents
+strands-agents-tools[mem0_memory]
+faiss-cpu
+mem0ai
+boto3
+rich
